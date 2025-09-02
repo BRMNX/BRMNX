@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BRMNX
-- 👀 A university student from China who majors in Mathematics, and is learning Java/Python/C++.
-- 🌱 Wants to learn Machine Learning all by myself.
+- 👀 A university student learning Java/Python/C++.
+- 🌱 Now improving my algorithm skills.
 
 <!---
 BRMNX/BRMNX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
