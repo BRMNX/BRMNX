@@ -1,8 +1,8 @@
 [>>切换中文](#zh)
 # Profile<a id="en"></a>
 - 👋 Hi, I’m @BRMNX
-- 👀 An under-graduate student majors in mathematical.
-- 🌱 Now learning DL and CV.
+- 👀 An under-graduate student majors in mathematics.
+- 🌱 Now exploring Deep Learning and Computer Vision.
 
 Contact me: `weiyq25@mail2.sysu.edu.cn`
 
