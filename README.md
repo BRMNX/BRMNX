@@ -1,8 +1,9 @@
 [>>切换中文](#zh)
 # Profile<a id="en"></a>
 - 👋 Hi, I’m @BRMNX
-- 👀 An under-graduate student majors in mathematics.
-- 🌱 Now exploring Deep Learning and Computer Vision.
+- 👀 An under-graduate student majors in mathematics(information and computational science).
+- 💻 Have learned Deep Learning and Computer Vision.
+- 💡 Now exploring **AI-agent** and **harness engineering**.
 
 Contact me: `weiyq25@mail2.sysu.edu.cn`
 
@@ -10,9 +11,10 @@ Contact me: `weiyq25@mail2.sysu.edu.cn`
 
 [>>English Version](#en)
 # 简介<a id="zh"></a>
-- 👋 您好，我是@BRMNX
-- 👀 数学专业本科生.
-- 🌱 正在探索深度学习和计算机视觉.
+- 👋 您好，我是 @BRMNX
+- 👀 数学专业（信息与计算科学）本科生.
+- 💻 已学过深度学习和计算机视觉.
+- 💡 正在探索 **智能体（AI-agent）** 与 **驾驭工程（harness engineering）**.
 
 联系方式: `weiyq25@mail2.sysu.edu.cn`
 
